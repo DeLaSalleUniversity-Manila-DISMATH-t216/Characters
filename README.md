@@ -3,8 +3,8 @@
 Introduction to characters
 
 #ScreenShots
-![Character1](Character1.PNG)
-![Character2](Character2.PNG)
+![Characters1](Characters1.PNG)
+![Characters2](Characters2.PNG)
 
 #Code
 
